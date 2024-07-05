@@ -7,6 +7,7 @@ En este repositorio encontrarás el código de todas las clases del [Curso de In
 La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
 
 ¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+Perfecto voy a continuar aprendiendo :)
 
 ## Getting Started with Create React App
 
